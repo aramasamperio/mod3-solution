@@ -1,0 +1,48 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+    position: relative;
+  }
+
+  
+  .h1{
+   
+    margin-top: 100px;
+    position: relative;
+    padding: 10px;
+  }
+  li{
+    text-align: center;
+  }
+  a.navbar-brand{
+    font-weight: bolder;
+    font-size:xx-large;
+    
+  }
+  div p{
+    text-align: left;
+  }
+  .title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+  }
+  .text-bg-dark{
+    padding: 10px;
+    margin: 40px;
+    clear: both;
+  }
+  .nav-item {
+    font-weight: bold;
+    border: 1px solid #000;
+  }
+
+  a.nav-link{
+    background-color: rgba(119, 120, 116, 0.237);
+    clear: both;
+  }
+  /* END HEADER */
+  
+  
